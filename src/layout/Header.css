@@ -1,0 +1,15 @@
+.Header {
+  background-color: #fafafa;
+  padding: 16px 0;
+}
+
+.Header > nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.Header > nav > ul {
+  display: flex;
+  list-style: none;
+  gap: 8px;
+}
